@@ -1,0 +1,30 @@
+.task-input-field {
+  flex: 1;
+  padding: 1rem;
+  border: 2px solid #ddd;
+  border-radius: 8px;
+  font-size: 1.1rem;
+  transition: all 0.3s ease;
+}
+
+.task-input-field:focus {
+  border-color: #4f73f6;
+  box-shadow: 0 0 12px rgba(79, 115, 246, 0.3);
+  transform: scale(1.05);
+}
+
+.task-add-button {
+  background-color: #5c67f2;
+  color: white;
+  border: none;
+  padding: 0.8rem 1.6rem;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  font-size: 1.2rem;
+}
+
+.task-add-button:hover {
+  background-color: #4f73f6;
+  transform: scale(1.1);
+}

@@ -1,0 +1,28 @@
+.task-container {
+  width: 100%;
+  max-width: 500px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+h1 {
+  font-size: 2.5rem;
+  color: #5c67f2;
+  margin-bottom: 1.5rem;
+}
+
+.task-list {
+  margin-top: 1rem;
+}
+
+.empty-message {
+  color: #888;
+  margin-top: 1rem;
+}
+
+.task-input {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  margin-bottom: 1.5rem;
+}
