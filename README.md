@@ -20,7 +20,7 @@ A modern, intuitive, and responsive task manager built with React, providing a s
 
 ## Demo
 
-You can try out the live demo of this project at [Live Demo](#).
+You can try out the live demo of this project at [Live Demo](https://task-manager-three-mauve.vercel.app/).
 
 ## Getting Started
 
