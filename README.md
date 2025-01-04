@@ -38,7 +38,7 @@ Ensure you have the following installed on your local machine:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/SauravHingade/Task-Manager.git
+   git clone https://github.com/sauravhingade/Task-Manager
 
 2. Navigate into the project directory:
 
